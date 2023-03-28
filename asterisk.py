@@ -36,7 +36,8 @@ for x in range(5):
 
 #Descending triangle
 # for x in range(5):
-#     for y in range(x,5):
+#     for y in range(5-x):
 #         print("*",end=" ")
 #     print()
+
 
